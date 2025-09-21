@@ -1,0 +1,112 @@
+ [
+  {
+    "id": "task-1",
+    "title": "Design login page",
+    "description": "Create wireframe and UI for the login page.",
+    "asignedTo": {
+      "id": "user-1",
+      "name": "Alice Johnson"
+    },
+    "status": "TODO",
+    "createdAt": "2025-09-01T10:00:00Z"
+  },
+  {
+    "id": "task-2",
+    "title": "Implement login API",
+    "description": "Develop the backend endpoint for user authentication.",
+    "asignedTo": {
+      "id": "user-2",
+      "name": "Bob Smith"
+    },
+    "status": "IN_PROGRESS",
+    "createdAt": "2025-09-02T11:30:00Z"
+  },
+  {
+    "id": "task-3",
+    "title": "Database schema setup",
+    "description": "Design initial schema for users and tasks.",
+    "asignedTo": {
+      "id": "user-3",
+      "name": "Charlie Brown"
+    },
+    "status": "DONE",
+    "createdAt": "2025-09-03T09:15:00Z"
+  },
+  {
+    "id": "task-4",
+    "title": "Create landing page",
+    "description": "Build responsive landing page with hero section.",
+    "asignedTo": {
+      "id": "user-1",
+      "name": "Alice Johnson"
+    },
+    "status": "TODO",
+    "createdAt": "2025-09-04T14:20:00Z"
+  },
+  {
+    "id": "task-5",
+    "title": "Setup CI/CD pipeline",
+    "description": "Integrate GitHub Actions for automated tests and deployments.",
+    "asignedTo": {
+      "id": "user-2",
+      "name": "Bob Smith"
+    },
+    "status": "IN_PROGRESS",
+    "createdAt": "2025-09-05T12:10:00Z"
+  },
+  {
+    "id": "task-6",
+    "title": "Unit testing for auth module",
+    "description": "Write Jest tests for login and signup functions.",
+    "asignedTo": {
+      "id": "user-4",
+      "name": "Diana Prince"
+    },
+    "status": "TODO",
+    "createdAt": "2025-09-06T08:45:00Z"
+  },
+  {
+    "id": "task-7",
+    "title": "Fix navbar bug",
+    "description": "Resolve overlapping issue on mobile view.",
+    "asignedTo": {
+      "id": "user-3",
+      "name": "Charlie Brown"
+    },
+    "status": "DONE",
+    "createdAt": "2025-09-07T16:00:00Z"
+  },
+  {
+    "id": "task-8",
+    "title": "API documentation",
+    "description": "Document endpoints with Swagger/OpenAPI.",
+    "asignedTo": {
+      "id": "user-1",
+      "name": "Alice Johnson"
+    },
+    "status": "IN_PROGRESS",
+    "createdAt": "2025-09-08T13:50:00Z"
+  },
+  {
+    "id": "task-9",
+    "title": "User profile page",
+    "description": "Develop UI for user profile with editable fields.",
+    "asignedTo": {
+      "id": "user-4",
+      "name": "Diana Prince"
+    },
+    "status": "TODO",
+    "createdAt": "2025-09-09T07:30:00Z"
+  },
+  {
+    "id": "task-10",
+    "title": "Integrate payment gateway",
+    "description": "Add Stripe integration for premium subscriptions.",
+    "asignedTo": {
+      "id": "user-2",
+      "name": "Bob Smith"
+    },
+    "status": "IN_PROGRESS",
+    "createdAt": "2025-09-10T15:25:00Z"
+  }
+]
